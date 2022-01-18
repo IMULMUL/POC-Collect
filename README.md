@@ -9,6 +9,7 @@
 4. Thinkphp RCE [https://github.com/helloexp/0day](https://github.com/helloexp/0day/tree/master/Thinkphp)
 5. Windows RCE [https://github.com/smgorelik/Windows-RCE-exploits](https://github.com/smgorelik/Windows-RCE-exploits)
 6. shiro 发序列化 [https://github.com/helloexp/0day/tree/master/shiro](https://github.com/helloexp/0day/tree/master/shiro)
+7. VPS2SUSE [https://github.com/U2FsdGVkX1/vps2suse](https://github.com/U2FsdGVkX1/vps2suse)
 
 ## 为什么发起这个项目？
 1. 几个月前，我参加了一场AWD攻防比赛，发现提前收集POC对比赛有好处而且在收集这些 `payload` 的同时，也能学到许多东西.
